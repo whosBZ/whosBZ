@@ -1,4 +1,4 @@
-👷‍♂️ Hi, I’m Sean Boonzaier
+👷‍♂️ Hi, I’m Sean Boonzaier \n
 💵 Full Stack Developer specializing in building applications in the IoT and Sustainability Sector.
 💬 Mainly work with Javscript/Typescript and Python as languages but always learning something new.
 💻 Capable across the stack including Frontend UI's, Backend Services as well as DevOps (Containerization, CI/CD, Testing)
